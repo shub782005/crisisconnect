@@ -42,3 +42,69 @@ This ensures faster, smarter, and more efficient disaster response.
 
  screenshots inside `/screenshots` folder :
  
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository:
+   git clone https://github.com/yourusername/crisisconnect.git
+
+2. Navigate to the project:
+       cd crisisconnect
+3. Install dependencies:
+    flutter pub get
+4. Run the app:
+   flutter run
+
+   
+---
+
+## 🌐 Live Prototype
+
+👉 Download APK / Try the app:  
+(Add your Google Drive or GitHub release link here)
+
+---
+
+## 🎥 Demo Video
+
+👉 Watch demo:  
+(Add your YouTube video link here)
+
+---
+
+## 🏗 Architecture Overview
+
+- Flutter App → Firebase Backend  
+- Firebase Functions → Gemini API  
+- AI Engine → Priority scoring + matching  
+
+---
+
+## 🚀 Future Scope
+
+- 🌍 Multi-language support  
+- 📡 Offline emergency mode  
+- 🛰 Integration with government disaster systems  
+- 📊 Advanced analytics dashboard  
+- 🤖 More AI automation for prediction and planning  
+
+---
+
+## 👥 Team
+
+- Shubham kamble (Team Lead)  
+- Priti patil (member)
+
+---
+
+## 📌 Note
+
+This project is developed as part of a solution challenge and demonstrates a scalable, AI-driven approach to disaster management.
+
+---
+
+⭐ If you found this project interesting, consider starring the repo!
+
+   
