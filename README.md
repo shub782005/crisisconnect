@@ -63,14 +63,16 @@ This ensures faster, smarter, and more efficient disaster response.
 ## 🌐 Live Prototype
 
 👉 Download APK / Try the app:  
-(Add your Google Drive or GitHub release link here)
+https://drive.google.com/drive/folders/1x5TNrt2ug4otR-9DuFwFjvaH3pU_-39a?usp=sharing
+<img width="2060" height="102" alt="image" src="https://github.com/user-attachments/assets/d13a3f96-5c70-46bf-9484-4be42642f596" />
+
 
 ---
 
 ## 🎥 Demo Video
 
 👉 Watch demo:  
-(Add your YouTube video link here)
+https://youtu.be/-TJjZBsmlDk?si=HqZpHgT5jeBBnkhy
 
 ---
 
